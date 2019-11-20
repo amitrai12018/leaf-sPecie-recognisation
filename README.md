@@ -1,7 +1,9 @@
 # leaf-specie-recognisation
 THIS PROJECT IS A PART OF KRITI INTER HOSTEL TECH COMPETITION AMONG 12 HOSTELS OF IIT GUWAHATI.
 
-The provided dataset (dataset.tar.gz file) consists of 24694 train images
+ML_HACKATHON FILE CONTAINS THE PROBLEM STATEMENT.
+
+The provided dataset (dataset.tar.gz file)DOWNLOAD DATASET FROM(https://drive.google.com/file/d/1SKzdTgInW7VUQuuFkjhCKjfOesRIcRbo/view?usp=sharing)consists of 24694 train images
 and 3090 test(public) images and both have 185 classes. All images are
 of the size 224x224 pixels with 3 color channels
 
